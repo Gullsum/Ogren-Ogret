@@ -1,0 +1,2 @@
+# Ogren-Ogret
+Eğitim projesi
